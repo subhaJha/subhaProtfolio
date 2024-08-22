@@ -72,16 +72,17 @@ const Footer = () => {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/santhi-priya-bitta/"
+                href="https://www.linkedin.com/in/subha-jha-62a60b103/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
-              >                <FaLinkedinIn />
+              >  
+              <FaLinkedinIn />
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/santhi-priya-bitta/"
+                href="https://www.linkedin.com/in/subha-jha-62a60b103/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-colour home-social-icons"

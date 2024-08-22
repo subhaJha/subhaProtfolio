@@ -8,8 +8,8 @@ export const ProjectData = [
     title: "My Protfolio - React",
     description: "",
     img:  SanthiPortfolio,
-    gitLink: "https://github.com/santhipriyabitta/Portfolio-website-React",
-    demoLink: "https://portfolio-website-react-pi.vercel.app/",
+    gitLink: "https://github.com/subhaJha/subhaProtfolio",
+    demoLink: "https://subhajha.github.io/subhaProtfolio/",
   },
  
  
@@ -18,15 +18,15 @@ export const ProjectData = [
     title: "Personal Website UI",
     description: "",
     img: PersonalWebUI,
-    gitLink: "https://github.com/santhipriyabitta/personal-blog-ui",
-    demoLink: "https://santhipriyabitta.github.io/personal-blog-ui/",
+    // gitLink: "https://github.com/santhipriyabitta/personal-blog-ui",
+    // demoLink: "https://santhipriyabitta.github.io/personal-blog-ui/",
   },
 
   {
     title: "Drum Game",
     description: "",
     img: drumGame,
-    gitLink: "https://github.com/santhipriyabitta/Drums-Game",
-    demoLink: "https://santhipriyabitta.github.io/Drums-Gam",
+    // gitLink: "https://github.com/santhipriyabitta/Drums-Game",
+    // demoLink: "https://santhipriyabitta.github.io/Drums-Gam",
   },
 ];
