@@ -6,7 +6,7 @@
 
 <br/>
 
-![Subha Portfolio HomePage](src/Assets/subha%20photo.png)
+![Subha Portfolio HomePage](src/Assets/sj.png)
 
 ## About Project
 
