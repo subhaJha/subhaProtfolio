@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9faf8225.css",
+    "main.js": "/static/js/main.9ab5a696.js",
+    "static/media/image.png": "/static/media/image.932445f9c1425ca01f26.png",
+    "static/media/Santhi.png": "/static/media/Santhi.176ae73dd86b1011e4c4.png",
+    "static/media/SanthiLogo2.png": "/static/media/SanthiLogo2.688c059efa4f11fd8de8.png",
+    "static/media/laptop-asset.png": "/static/media/laptop-asset.aaa89f2f67afb5d65ae6.png",
+    "static/media/DrumGame.png": "/static/media/DrumGame.340f8b49125286d64ef0.png",
+    "static/media/Santhi_Priya_Bitta_Resume.pdf": "/static/media/Santhi_Priya_Bitta_Resume.c31d34b5455de166bcf0.pdf",
+    "static/media/SanthiLogo.png": "/static/media/SanthiLogo.58bc693d7602ff97bd44.png",
+    "static/media/SanthiBlogs.png": "/static/media/SanthiBlogs.5cc877f93fa232a32449.png",
+    "static/media/SanthiPortfolioUI.png": "/static/media/SanthiPortfolioUI.19e83024693b9a5d09de.png",
+    "static/media/SanthiMobile.png": "/static/media/SanthiMobile.333f92f2fff33dd42ae8.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.9faf8225.css.map": "/static/css/main.9faf8225.css.map",
+    "main.9ab5a696.js.map": "/static/js/main.9ab5a696.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9faf8225.css",
+    "static/js/main.9ab5a696.js"
+  ]
+}
