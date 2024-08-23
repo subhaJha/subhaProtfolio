@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d0f017f.css",
-    "main.js": "/static/js/main.78cc9a5d.js",
-    "static/media/subha photo.png": "/static/media/subha photo.500dd4f7ae5642429090.png",
-    "static/media/image.png": "/static/media/image.932445f9c1425ca01f26.png",
-    "static/media/laptop-asset.png": "/static/media/laptop-asset.aaa89f2f67afb5d65ae6.png",
-    "static/media/ResumeSubhaJha-1.pdf": "/static/media/ResumeSubhaJha-1.856cec2e0d7c71b90ba1.pdf",
-    "static/media/DrumGame.png": "/static/media/DrumGame.340f8b49125286d64ef0.png",
-    "static/media/SanthiBlogs.png": "/static/media/SanthiBlogs.5cc877f93fa232a32449.png",
-    "static/media/SanthiPortfolioUI.png": "/static/media/SanthiPortfolioUI.19e83024693b9a5d09de.png",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/sj.png": "/static/media/sj.8a67b6aede1874a67103.png",
-    "static/media/SanthiMobile.png": "/static/media/SanthiMobile.333f92f2fff33dd42ae8.png",
-    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/index.html",
-    "main.2d0f017f.css.map": "/static/css/main.2d0f017f.css.map",
-    "main.78cc9a5d.js.map": "/static/js/main.78cc9a5d.js.map"
+    "main.css": "/subhaProtfolio/static/css/main.dccb7993.css",
+    "main.js": "/subhaProtfolio/static/js/main.9e778ba7.js",
+    "static/media/subha photo.png": "/subhaProtfolio/static/media/subha photo.500dd4f7ae5642429090.png",
+    "static/media/image.png": "/subhaProtfolio/static/media/image.932445f9c1425ca01f26.png",
+    "static/media/laptop-asset.png": "/subhaProtfolio/static/media/laptop-asset.aaa89f2f67afb5d65ae6.png",
+    "static/media/ResumeSubhaJha-1.pdf": "/subhaProtfolio/static/media/ResumeSubhaJha-1.856cec2e0d7c71b90ba1.pdf",
+    "static/media/DrumGame.png": "/subhaProtfolio/static/media/DrumGame.340f8b49125286d64ef0.png",
+    "static/media/SanthiBlogs.png": "/subhaProtfolio/static/media/SanthiBlogs.5cc877f93fa232a32449.png",
+    "static/media/SanthiPortfolioUI.png": "/subhaProtfolio/static/media/SanthiPortfolioUI.19e83024693b9a5d09de.png",
+    "static/media/about.png": "/subhaProtfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sj.png": "/subhaProtfolio/static/media/sj.8a67b6aede1874a67103.png",
+    "static/media/SanthiMobile.png": "/subhaProtfolio/static/media/SanthiMobile.333f92f2fff33dd42ae8.png",
+    "static/media/pre.svg": "/subhaProtfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/subhaProtfolio/index.html",
+    "main.dccb7993.css.map": "/subhaProtfolio/static/css/main.dccb7993.css.map",
+    "main.9e778ba7.js.map": "/subhaProtfolio/static/js/main.9e778ba7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d0f017f.css",
-    "static/js/main.78cc9a5d.js"
+    "static/css/main.dccb7993.css",
+    "static/js/main.9e778ba7.js"
   ]
 }
