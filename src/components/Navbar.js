@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-// import SanthiLogo from "../Assets/sj.png"
-import MobileLogo from "../Assets/SanthiMobile.png";
+import DesktopLogo from "../Assets/sj.png"
+import MobileLogo from "../Assets/subhaMobile.png";
 import { Link } from "react-router-dom";
 
 const NavBar = () => {
@@ -29,8 +29,10 @@ const NavBar = () => {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img  className="img-fluid logo" alt="Subha Jha" />
-          {/* <img src={SanthiLogo} className="img-fluid logo" alt="brand" /> */}
+          {/* <img  className="img-fluid logo" alt="Subha Jha" /> */}
+          <img src={DesktopLogo} className="img-fluid logo"
+  alt="brand"
+  style={{ width: "15rem", }}/>
           <img src={MobileLogo} className="img-fluid mobile-logo" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle

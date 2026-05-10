@@ -7,7 +7,7 @@ import {
   AiFillTwitterCircle,
   AiFillTwitterSquare,
 } from "react-icons/ai";
-import SanthiLogo from '../Assets/sj.png'
+import subhaLogo from '../Assets/sj.png'
 import { FaLinkedinIn } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
@@ -19,7 +19,7 @@ const Footer = () => {
       <Row>
         <Col md="4" className="footer-copywright">
           <img
-            src={SanthiLogo}
+            src={subhaLogo}
             className="img-fluid  footer-logo"
             alt="brand"
           />
