@@ -8,7 +8,7 @@ import {
   DiJava,
   DiBootstrap,
   DiAngularSimple,
-  DiHtml53DEffects,
+  DiHtml5,
   DiCss3,
   DiGit,
   DiPostgresql,
