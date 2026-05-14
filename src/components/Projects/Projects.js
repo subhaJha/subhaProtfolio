@@ -3,7 +3,6 @@ import { ProjectData } from "./ProjectData";
 import { Container, Row, Col } from "react-bootstrap";
 import HeadingDivider from "../UI-Elements/HeadingDivider";
 import ProjectCard from "./ProjectCard";
-const placeHolder = "https://placehold.co/600x400";
 
 const Projects = () => {
   return (

@@ -2,9 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
-  AiFillTwitterCircle,
   AiFillTwitterSquare,
 } from "react-icons/ai";
 import subhaLogo from '../Assets/sj.png'
