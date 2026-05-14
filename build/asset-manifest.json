@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/subhaProtfolio/static/css/main.dccb7993.css",
-    "main.js": "/subhaProtfolio/static/js/main.d18c9ae5.js",
+    "main.css": "/subhaProtfolio/static/css/main.dad2d952.css",
+    "main.js": "/subhaProtfolio/static/js/main.173bf7bd.js",
     "static/media/subha photo.png": "/subhaProtfolio/static/media/subha photo.500dd4f7ae5642429090.png",
     "static/media/sj.png": "/subhaProtfolio/static/media/sj.b5aa09ec17f20267900a.png",
     "static/media/bookMyPurohit.png": "/subhaProtfolio/static/media/bookMyPurohit.523b79c8d471684ee6e2.png",
@@ -14,11 +14,11 @@
     "static/media/about.png": "/subhaProtfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/pre.svg": "/subhaProtfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/subhaProtfolio/index.html",
-    "main.dccb7993.css.map": "/subhaProtfolio/static/css/main.dccb7993.css.map",
-    "main.d18c9ae5.js.map": "/subhaProtfolio/static/js/main.d18c9ae5.js.map"
+    "main.dad2d952.css.map": "/subhaProtfolio/static/css/main.dad2d952.css.map",
+    "main.173bf7bd.js.map": "/subhaProtfolio/static/js/main.173bf7bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.dccb7993.css",
-    "static/js/main.d18c9ae5.js"
+    "static/css/main.dad2d952.css",
+    "static/js/main.173bf7bd.js"
   ]
 }
