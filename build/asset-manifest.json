@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/subhaProtfolio/static/css/main.dad2d952.css",
-    "main.js": "/subhaProtfolio/static/js/main.173bf7bd.js",
-    "static/media/subha photo.png": "/subhaProtfolio/static/media/subha photo.500dd4f7ae5642429090.png",
-    "static/media/sj.png": "/subhaProtfolio/static/media/sj.b5aa09ec17f20267900a.png",
-    "static/media/bookMyPurohit.png": "/subhaProtfolio/static/media/bookMyPurohit.523b79c8d471684ee6e2.png",
-    "static/media/image.png": "/subhaProtfolio/static/media/image.932445f9c1425ca01f26.png",
-    "static/media/EasternSpiritz.png": "/subhaProtfolio/static/media/EasternSpiritz.9e6001204c9391b041f9.png",
-    "static/media/subhaMobile.png": "/subhaProtfolio/static/media/subhaMobile.94807f03419560215897.png",
-    "static/media/laptop-asset.png": "/subhaProtfolio/static/media/laptop-asset.aaa89f2f67afb5d65ae6.png",
-    "static/media/ResumeSubhaJha-1.pdf": "/subhaProtfolio/static/media/ResumeSubhaJha-1.856cec2e0d7c71b90ba1.pdf",
-    "static/media/subhaProtfolioImage.png": "/subhaProtfolio/static/media/subhaProtfolioImage.f752e551a15a2cb4ada3.png",
-    "static/media/about.png": "/subhaProtfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/pre.svg": "/subhaProtfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/subhaProtfolio/index.html",
-    "main.dad2d952.css.map": "/subhaProtfolio/static/css/main.dad2d952.css.map",
-    "main.173bf7bd.js.map": "/subhaProtfolio/static/js/main.173bf7bd.js.map"
+    "main.css": "/static/css/main.c23d3eaa.css",
+    "main.js": "/static/js/main.f42c50f1.js",
+    "static/media/subha photo.png": "/static/media/subha photo.500dd4f7ae5642429090.png",
+    "static/media/sj.png": "/static/media/sj.b5aa09ec17f20267900a.png",
+    "static/media/bookMyPurohit.png": "/static/media/bookMyPurohit.523b79c8d471684ee6e2.png",
+    "static/media/image.png": "/static/media/image.932445f9c1425ca01f26.png",
+    "static/media/EasternSpiritz.png": "/static/media/EasternSpiritz.9e6001204c9391b041f9.png",
+    "static/media/subhaMobile.png": "/static/media/subhaMobile.94807f03419560215897.png",
+    "static/media/laptop-asset.png": "/static/media/laptop-asset.aaa89f2f67afb5d65ae6.png",
+    "static/media/ResumeSubhaJha-1.pdf": "/static/media/ResumeSubhaJha-1.856cec2e0d7c71b90ba1.pdf",
+    "static/media/subhaProtfolioImage.png": "/static/media/subhaProtfolioImage.f752e551a15a2cb4ada3.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.c23d3eaa.css.map": "/static/css/main.c23d3eaa.css.map",
+    "main.f42c50f1.js.map": "/static/js/main.f42c50f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.dad2d952.css",
-    "static/js/main.173bf7bd.js"
+    "static/css/main.c23d3eaa.css",
+    "static/js/main.f42c50f1.js"
   ]
 }
